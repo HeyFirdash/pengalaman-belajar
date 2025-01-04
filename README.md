@@ -14,4 +14,9 @@ Belajar kelas "Belajar GIT dengan GIThub" dari dicoding. (progress 38%)
 * Belajar menambahkan repository baru
 * Belajar melakukan commit
 
+**5 Januari 2025**
+Belajar kelas "Belajar GIT dengan GIThub" dari dicoding. (progress 100%)
+* Belajar GIT branches
+* Belajar berkolaborasi
+
 
